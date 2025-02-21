@@ -2,6 +2,8 @@
 
 DigDug clone for AI teaching
 
+Final grade: 16.3/20
+
 ## How to install
 
 Make sure you are running Python 3.11.
